@@ -1,0 +1,15 @@
+.mainblock{
+    height: 80vh;
+    border: 1px solid;
+}
+.row{
+    height: 80px;
+}
+
+.navblock1{
+    height: 70px;
+}
+.navblock2{
+    background-color: rgb(232, 230, 230);
+    height: 110px;
+}
